@@ -1,5 +1,5 @@
- name: RDP
-jobs:
+ name: Zimma52
+ 
 on:
   workflow_dispatch:
 
